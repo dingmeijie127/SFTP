@@ -1,0 +1,1 @@
+/opt/linux/x86-arm/aarch64-mix210-linux/bin/aarch64-mix210-linux-g++     CMakeFiles/SFTPClientARM.dir/mytest.cpp.o CMakeFiles/SFTPClientARM.dir/testSFTP.cpp.o  -o SFTPClientARM  -L/home/dmj/test/testxml/./lib -Wl,-rpath,/home/dmj/test/testxml/./lib -lsslm -lcrypto -lssh2 
